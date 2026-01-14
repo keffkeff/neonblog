@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+aiofiles
+python-multipart
+Pillow
+markdown2
